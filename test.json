@@ -1,1 +1,6 @@
-'{"name": "Squid", "job": "dev"}'
+[
+  {
+    id: 1,
+    text: "ASDF"
+  }
+]
